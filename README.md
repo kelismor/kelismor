@@ -1,8 +1,8 @@
 ### Hi there 👋, My name is Kelis Richard
-#### I am a Frontend Developer
-![I am a Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+#### I create codes that design your vision
+![I create codes that design your vision](https://github.com/kelismor/kelismor/blob/main/Kelis%20Richard.png?raw=true)
 
-I made this project just for inspiration, it allows me to be super creative and inspiring.
+I like to design powerful, intellectual, elegant and timeless websites. Being super creative is part of my art.
 
 Skills:  HTML / CSS / VUE JS / REACT / JS 
 
@@ -17,3 +17,4 @@ Skills:  HTML / CSS / VUE JS / REACT / JS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/kelismor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/kelismor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kelisrichard//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/kelis_richard)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/kelismor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/kelismor)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.kelisrichard.com)  
+
