@@ -6,7 +6,7 @@ I like to design powerful, intellectual, elegant and timeless websites. Being su
 
 Skills:  HTML / CSS / VUE JS / REACT / JS 
 
-- 🔭 I’m currently working on I am currently working on my portfolio 
+- 🔭 I’m currently working on my portfolio 
 - 🌱 I’m currently learning m currently leanring Javascript 
 - 👯 I’m looking to collaborate on I want to collaborate with other web developers 
 - 🤔 I’m looking for help with I am looking for help with 7 websites projects 
